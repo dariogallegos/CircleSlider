@@ -1,2 +1,2 @@
 # CircleSlider
-Circular slider with two thumbs
+Component of circular slider with two thumbs with swiftUI.
